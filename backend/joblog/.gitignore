@@ -37,6 +37,8 @@ out/
 .vscode/
 
 src/main/resources/application.yml
+src/main/resources/application-jwt.yml
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,java,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,java,gradle
